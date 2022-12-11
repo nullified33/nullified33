@@ -50,11 +50,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
-          plugin_screenshot: yes
-          plugin_screenshot_background: yes
-          plugin_screenshot_selector: body
-          plugin_screenshot_title: 3prm3's Site
-          plugin_screenshot_url: https://threepremthree.neocities.org/home.html
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
