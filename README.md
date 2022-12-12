@@ -1,7 +1,7 @@
 ![3prm3's logo](3prm3.png)
 
 # Hello!
-I'm 3prm3 a frontend web developer and pixel artist. Below are some metrics...
+I'm 3prm3 a frontend web developer and pixel artist. Below are some metrics on me...
 
 <p align="center">
   <a href="https://skillicons.dev">
