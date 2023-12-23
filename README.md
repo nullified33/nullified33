@@ -1,14 +1,7 @@
-![3prm3's logo](3prm3.png)
+![The text nullified next to a square icon.](nullified_logo.png)
 
 # Hello!
-I'm 3prm3 a frontend web developer and pixel artist. Below are some metrics on me...
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,tailwind,bootstrap,vscode,github,raspberrypi" />
-  </a>
-</p>
+I'm nullified, a pixel artist with some programming experience. Below are some metrics on me...
 
 ![Metrics](github-metrics.svg)
 
- 
