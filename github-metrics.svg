@@ -1617,7 +1617,7 @@ rebranding...</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 75k out of 125m users</span>
+                                    <span class="gh">ranked 75k out of 127m users</span>
                                 </div>
                                 <div class="text">Published 157 public repositories</div>
                             </div>
@@ -1864,7 +1864,7 @@ rebranding...</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 408k out of 67.5m repositories</span>
+                                    <span class="gh">ranked 408k out of 66.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 78 stars</div>
                             </div>
@@ -1941,7 +1941,7 @@ rebranding...</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.13m out of 67.5m repositories</span>
+                                    <span class="gh">ranked 2.12m out of 66.5m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2026,7 +2026,7 @@ rebranding...</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 2.89m out of 125m users</span>
+                                    <span class="gh">ranked 2.89m out of 127m users</span>
                                 </div>
                                 <div class="text">Followed by 4 users</div>
                             </div>
@@ -2115,7 +2115,7 @@ rebranding...</div>
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
                             <span class="code">52844b66</span>
-                            <span class="code">stuff/yabasic/truth-machine.yab</span>
+                            <span class="code">site/stylofoneB.bat</span>
                             <span class="code">
                                 <span class="snippet additions">++3</span>
                                 <span class="snippet deletions">--0</span>
@@ -2126,14 +2126,14 @@ rebranding...</div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">input""x<br /></span><span class="token prefix inserted">+</span><span class="token line">if(x=0)print"0"<br /></span><span class="token prefix inserted">+</span><span class="token line">while(x=1)print"1";wend<br /></span></span>\No newline at end of file</code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -0,0 +1,3 @@</span><br /><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">cd css<br /></span><span class="token prefix inserted">+</span><span class="token line">del /f *.min.css<br /></span><span class="token prefix inserted">+</span><span class="token line">ren *.css *.min.css<br /></span></span>\No newline at end of file</code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2023, 12:09:24 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Dec 2023, 13:08:02 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
