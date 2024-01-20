@@ -1912,7 +1912,7 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.257257257257256 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.412412412412412 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -1935,9 +1935,9 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 403k out of 65.1m repositories</span>
+                                    <span class="gh">ranked 399k out of 60m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 80 stars</div>
+                                <div class="text">Maintaining a repository with 81 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2012,7 +2012,7 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.14m out of 65.1m repositories</span>
+                                    <span class="gh">ranked 2.14m out of 60m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 4 times</div>
                             </div>
@@ -2167,7 +2167,7 @@ Signed-off-by: ImgBotApp &lt;ImgBotHelp@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2024, 13:08:15 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Jan 2024, 14:08:31 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
